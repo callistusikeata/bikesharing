@@ -13,22 +13,22 @@ Show the number of bike trips for each type of user and gender for each day of t
 
 The results of the analysis and visualizations are shown below: 
 
-Top Starting Locations
+# Top Starting Locations
 ![image](https://user-images.githubusercontent.com/82552594/127804067-ac43a33e-bc15-4e66-8705-3ccafb65b586.png)
 
-August Peak Times
+# August Peak Times
 ![image](https://user-images.githubusercontent.com/82552594/127804089-7630ec14-126c-440b-bd93-a9c309751ffe.png)
 
-Trips per Hour by Weekday
+# Trips per Hour by Weekday
 ![image](https://user-images.githubusercontent.com/82552594/127804228-6cebbdd5-eed4-4e01-aa77-fa0389da7040.png)
 
-Trips per Weekday by Gender
+# Trips per Weekday by Gender
 ![image](https://user-images.githubusercontent.com/82552594/127804255-92084f0e-7cff-4604-b7c9-7966ff66cad4.png)
 
-Checkout Times by Users
+# Checkout Times by Users
 ![image](https://user-images.githubusercontent.com/82552594/127804280-0ab93217-004e-499f-928d-c883f16d3b97.png)
 
-Checkout Times by Gender
+# Checkout Times by Gender
 ![image](https://user-images.githubusercontent.com/82552594/127804305-76c1d140-cc03-4f20-b0ab-b48da17b06c3.png)
 
 
